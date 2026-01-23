@@ -4,6 +4,10 @@
 
 > Cada lab está em um repositório separado.  
 
+### LAB 0 — Namespaces
+- Objetivo: comprovar na prática o que é isolamento por namespaces `PID/NET/MOUNT/UTS/USER`.
+- Repo: [jvnetobr/lab-namespaces](https://github.com/jvnetobr/lab-namespaces)
+
 ### LAB 1 — Dockerfile: Alpine + Nginx + Hello World
 - Objetivo: criar **imagem própria**, entender `Dockerfile → build → run → ports → cache`.
 - Repo: [jvnetobr/lab-dockerfile](https://github.com/jvnetobr/lab-dockerfile)
